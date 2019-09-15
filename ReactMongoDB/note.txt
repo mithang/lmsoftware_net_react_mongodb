@@ -1,0 +1,5 @@
+﻿Khi reactjs nằm trong public thì thêm css , js , image bình thường như html
+nhưng khi hình ảnh nằm trong scr thì phải tuân theo reactjs
+--> style={{backgroundImage:`url("`+this.props.image+`")`}}
+
+

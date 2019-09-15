@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactMongoDB", "ReactMongoDB\ReactMongoDB.csproj", "{F93B0D8C-0751-4ACE-AC08-72E8AFAEA3FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F93B0D8C-0751-4ACE-AC08-72E8AFAEA3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93B0D8C-0751-4ACE-AC08-72E8AFAEA3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93B0D8C-0751-4ACE-AC08-72E8AFAEA3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93B0D8C-0751-4ACE-AC08-72E8AFAEA3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
